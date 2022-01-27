@@ -1,0 +1,5 @@
+pandas
+numpy
+konlpy
+gensim==3.8.0
+matplotlib
